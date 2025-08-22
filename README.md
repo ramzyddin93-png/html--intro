@@ -6,7 +6,10 @@ Vid bootcampens slut kommer ni ha byggt en statisk multi-page application - En w
 
 - En rubrik - `<h1>`, `<h2>` etc.
 - Text - en paragraf med "Lorem ipsum..." duger
-- En `<nav>` bar med två länkar/knappar - en för "hem" och en för "kontakt"
+- En `<nav>` bar med två länkar/knappar
+  - En hem-knapp som leder till huvudsidan
+  - En kontakt-knapp som leder till ett kontaktformulär
+- En kontaktsida med ett formulär, en `<input type="text">` och en `<button type="submit">`
 - En eller flera bilder
 
 ## 🎨 Välj ut en design
@@ -57,5 +60,11 @@ När ni valt design kan ni börja analysera vilka element den består av och hur
 
 Förbättra SEO och tillgänglighet med element som enkelt kan tolkas av skärmläsare.
 
+- [dbwebb.se - Semantisk HTML](https://dbwebb.se/guide/design-med-html5-och-css3/semantisk-html)
 - [Lista på relevanta element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements#content_sectioning)
 - [Explained in 4 minutes: Semantic HTML](https://www.youtube.com/watch?v=YPzFPoqwTmI)
+
+### Ändringar i `<head>`
+
+- Byt webbsidans titel
+- Lägg till favicon
