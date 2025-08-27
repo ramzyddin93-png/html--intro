@@ -42,12 +42,8 @@ När ni valt design kan ni börja analysera vilka element den består av och hur
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
+<html>
+  <head> </head>
   <body>
     // alla element läggs här inom
   </body>
@@ -66,5 +62,7 @@ Förbättra SEO och tillgänglighet med element som enkelt kan tolkas av skärml
 
 ### Ändringar i `<head>`
 
-- Byt webbsidans titel
+- Ge webbsidan en titel
 - Lägg till favicon
+- Lägg till språk för hela HTML-filen
+- Lägg till document encoding
