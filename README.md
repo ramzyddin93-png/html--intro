@@ -60,9 +60,12 @@ Förbättra SEO och tillgänglighet med element som enkelt kan tolkas av skärml
 - [Lista på relevanta element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements#content_sectioning)
 - [Explained in 4 minutes: Semantic HTML](https://www.youtube.com/watch?v=YPzFPoqwTmI)
 
+### Lägg till språk för hela HTML-filen
+
+I taggen som wrappar hela filen.
+
 ### Ändringar i `<head>`
 
 - Ge webbsidan en titel
 - Lägg till favicon
-- Lägg till språk för hela HTML-filen
 - Lägg till document encoding
